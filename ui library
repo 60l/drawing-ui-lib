@@ -1,2 +1,2 @@
 -- made by coolmatt72#6707 (coolmatt72) on v3rm aswell as walter !!!#4155 monke hub discord : https://discord.gg/ZmDkXF3Tz7
-loadstring(game:HttpGet("https://raw.githubusercontent.com/60l/drawing-ui-lib/main/raw"))()
+local library = loadstring(game:HttpGet("https://raw.githubusercontent.com/60l/drawing-ui-lib/main/raw"))()
